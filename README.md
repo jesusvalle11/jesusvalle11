@@ -7,4 +7,6 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - JavaScript
 - Python
 - Git
+- PHP
+- typescript
 
